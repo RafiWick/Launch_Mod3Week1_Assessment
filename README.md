@@ -38,7 +38,7 @@ padding is the space between the edge of the background the edge of the content.
   * Targeting an element in css using an id
   * Targeting an element in css using the html tag
   * Adding margin or padding to an element
-* When finished, add a link to your Replit here: <[A link to your repl here](https://replit.com/@RafiWick/M3W1-assessment#index.html)>
+* When finished, add a link to your Replit here: <[A link to my repl here](https://replit.com/@RafiWick/M3W1-assessment#index.html)>
 
 ![](Marta-Aziz.png)
 
