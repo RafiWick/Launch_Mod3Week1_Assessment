@@ -8,7 +8,7 @@
 ## Questions (10 Points)
 
 1. Define HTTP and why it's important.
-
+hypertext transfer protocol is the set of rules and procedures that are used by web pages on the internet. HTTP is important because if each web page followed a different set of rules a user would need to have the corresponding rules for any web page they'd like to visit while if they all agree anyone can use any web page. HTTP is the set that we have all agreed to use.
 2. Using [Google Drawings](https://docs.google.com/drawings) Create a diagram of the request and response cycle when a user visits turing.edu. Include clear labels for all components. Put the link to your drawing below. (3 points possible)
 
 3. Describe two parts of every HTTP request.
